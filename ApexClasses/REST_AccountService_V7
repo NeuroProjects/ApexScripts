@@ -1,8 +1,6 @@
 /****************************************************************************************************
  * Description - Sample Apex REST service with GET and POST methods
- * Author - Deepika Khanna
- * Example request:
- *
+
 {
   "rqst" :
   {

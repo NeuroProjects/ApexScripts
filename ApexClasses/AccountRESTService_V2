@@ -1,7 +1,3 @@
-/****************************************************************************************************
- * Description - Sample Apex REST service with GET method
- * Author - Deepika KHanna
- ****************************************************************************************************/
 
 @RestResource(urlMapping='/v2/accounts/*')
 global with sharing class AccountRESTService_V2 {
